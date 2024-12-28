@@ -11,10 +11,10 @@ This project demonstrates the implementation of a Library Management System usin
 3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
-## Key Features:
+## Key Features
 
-1. **Book Inventory: Manage detailed information about books, including titles, authors, genres, and availability.
-2. **Member Management: Maintain records of library members, including their personal details and membership history.
-3. **Borrow and Return Records: Track the borrowing and returning of books with timestamps for better management of resources.
-4. **Overdue Tracking: Identify and monitor overdue items to streamline notifications and penalty management.
-5. **Custom Queries: Enable powerful data retrieval for reporting and analytics, such as popular books, active members, and fine collection.
+1. **Book Inventory**: Manage detailed information about books, including titles, authors, genres, and availability.
+2. **Member Management**: Maintain records of library members, including their personal details and membership history.
+3. **Borrow and Return Records**: Track the borrowing and returning of books with timestamps for better management of resources.
+4. **Overdue Tracking**: Identify and monitor overdue items to streamline notifications and penalty management.
+5. **Custom Queries**: Enable powerful data retrieval for reporting and analytics, such as popular books, active members, and fine collection.
